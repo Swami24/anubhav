@@ -8,7 +8,6 @@
 </head>
 <body>
 <form action="RegistrationServlet" method="Post">
-
 <h1>Registration</h1>
  <label for="fname">First name:</label><br>
    <input type="text" id="fname" name="fname"><br>
